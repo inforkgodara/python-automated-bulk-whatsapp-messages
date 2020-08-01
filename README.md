@@ -1,10 +1,10 @@
 # Bulk WhatsApp Message Through Python Script
 
-It is a python script which send WhatsApp message automatic from WhatsApp web application. It can be configured to send advertisement messages to customers. It read data from excel sheet and send configured message to people.
+It is a python script that sends WhatsApp message automatically from WhatsApp web application. It can be configured to send advertising messages to customers. It read data from an excel sheet and send a configured message to people.
 
 ## Prerequisites
 
-In order to run the python script, your system must have the following programs/packages installed and contact number should be saved in your phone (You can use bulk contact number saving procedure of email). There is a way without saving the contact number but has the limitation to send the attachment.
+In order to run the python script, your system must have the following programs/packages installed and the contact number should be saved in your phone (You can use bulk contact number saving procedure of email). There is a way without saving the contact number but has the limitation to send the attachment.
 * Python
 * Selenium Web Driver
 * Google Chrome
@@ -12,12 +12,12 @@ In order to run the python script, your system must have the following programs/
 * Xlrd
 
 ## Approach
-* User scan web QR code to login into WhatsApp web application.
-* The script reads customized message from excel sheet.
-* The script reads rows one by one and search that contact number in web search box if contact number found on WhatsApp then it will send configured message otherwise It reads next row. 
+* User scans web QR code to log in into the WhatsApp web application.
+* The script reads a customized message from excel sheet.
+* The script reads rows one by one and searches that contact number in the web search box if the contact number found on WhatsApp then it will send a configured message otherwise It reads next row. 
 * Loop execute until and unless all rows complete.
 
-Note: If you wish to send image instead of text you can write attachment selection python code.
+Note: If you wish to send an image instead of text you can write attachment selection python code.
 
 ## Code
 ```
