@@ -75,3 +75,4 @@ for column in excel_data['Name'].tolist():
 # Close Chrome browser
 driver.quit()
 ```
+Note: The script may not work in case if the HTML of web WhatsApp is changed.
