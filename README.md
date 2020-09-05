@@ -1,11 +1,11 @@
-# Bulk WhatsApp Message Through Python Script
+# Python Bulk WhatsApp Wessages
 
 It is a python script that sends WhatsApp message automatically from WhatsApp web application. It can be configured to send advertising messages to customers. It read data from an excel sheet and send a configured message to people.
 
 ## Prerequisites
 
 In order to run the python script, your system must have the following programs/packages installed and the contact number should be saved in your phone (You can use bulk contact number saving procedure of email). There is a way without saving the contact number but has the limitation to send the attachment.
-* Python
+* Python 3.8
 * Selenium Web Driver
 * Google Chrome
 * Pandas
