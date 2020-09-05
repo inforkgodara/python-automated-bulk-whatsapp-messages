@@ -1,4 +1,4 @@
-# Python Bulk WhatsApp Wessages
+# Python Bulk WhatsApp Messages
 
 It is a python script that sends WhatsApp message automatically from WhatsApp web application. It can be configured to send advertising messages to customers. It read data from an excel sheet and send a configured message to people.
 
