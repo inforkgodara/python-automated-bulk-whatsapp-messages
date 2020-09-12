@@ -8,8 +8,9 @@ In order to run the python script, your system must have the following programs/
 * Python 3.8: Download it from https://www.python.org/downloads
 * Selenium Web Driver: Either you can use repo driver else you can download it https://chromedriver.chromium.org/downloads
 * Google Chrome : Download it from https://www.google.com/chrome
-* Pandas : install through pip, run in cmd **pip install pandas**
-* Xlrd : install through pip, run in cmd **pip install xlrd**
+* Pandas : Run in command prompt **pip install pandas**
+* Xlrd : Run in command prompt **pip install xlrd**
+* Selenium: Run in command prompt **pip install selenium** 
 
 ## Approach
 * User scans web QR code to log in into the WhatsApp web application.
