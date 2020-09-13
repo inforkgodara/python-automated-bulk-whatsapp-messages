@@ -20,6 +20,9 @@ In order to run the python script, your system must have the following programs/
 
 Note: If you wish to send an image instead of text you can write attachment selection python code.
 
+## Demo
+* Video clip on youtube of the script execution. https://youtu.be/NcWXpsczl3c
+
 ## Code
 ```
 # Program to send bulk customized message through WhatsApp web application
@@ -77,3 +80,5 @@ for column in excel_data['Name'].tolist():
 driver.quit()
 ```
 Note: The script may not work in case if the HTML of web WhatsApp is changed.
+
+Find it on youtube. https://youtu.be/NcWXpsczl3c
