@@ -10,7 +10,7 @@ This is for saved contact numbers only if you want to send whatsapp bulk message
 * Repository: https://github.com/inforkgodara/whatsapp-bulk-messages-without-saving-contacts
 * Demo on Youtube: https://youtu.be/KBe26Kk5d9c
 
-* ## Important
+## Important
 * If this repository helped you to understand at least something new please give star this repository which motivates me to work further for the similar kinds for projects.
 
 ## Prerequisites
