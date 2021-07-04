@@ -10,6 +10,9 @@ This is for saved contact numbers only if you want to send whatsapp bulk message
 * Repository: https://github.com/inforkgodara/whatsapp-bulk-messages-without-saving-contacts
 * Demo on Youtube: https://youtu.be/KBe26Kk5d9c
 
+* ## Important
+* If this repository helped you to understand at least something new please give star this repository which motivates me to work further for the similar kinds for projects.
+
 ## Prerequisites
 
 In order to run the python script, your system must have the following programs/packages installed and the contact number should be saved in your phone (You can use bulk contact number saving procedure of email). There is a way without saving the contact number but has the limitation to send the attachment.
