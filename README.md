@@ -31,6 +31,9 @@ In order to run the python script, your system must have the following programs/
 
 Note: If you wish to send an image instead of text you can write attachment selection python code.
 
+## Legal
+* This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries. This is an independent and unofficial software. Use at your own risk. Commercial use of this code/repo is strictly prohibited.
+
 ## Code
 ```
 # Program to send bulk customized message through WhatsApp web application
