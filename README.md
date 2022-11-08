@@ -2,16 +2,12 @@
 
 It is a python script that sends WhatsApp message automatically from WhatsApp web application with saved contact numbers. It can be configured to send advertising messages to customers. It read data from an excel sheet and send a configured message to people.
 
-## Demo
-* Video clip on youtube of the script execution. https://youtu.be/NcWXpsczl3c
-
 ## Note
 This is for saved contact numbers only if you want to send whatsapp bulk messages to unsaved or without saving the contact numbers. You may prefer another repository.
 * Repository: https://github.com/inforkgodara/whatsapp-bulk-messages-without-saving-contacts
-* Demo on Youtube: https://youtu.be/KBe26Kk5d9c
 
 ## Important
-* If this repository helped you to understand at least something new please give star this repository which motivates me to work further for the similar kinds for projects.
+* WhatsApp Business released API on May 2022, no longer needed this repository. You can accomplish your same requirements through WhatsApp Business APIs.
 
 ## Prerequisites
 
